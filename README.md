@@ -9,3 +9,16 @@ Intel® i7-14700F (28 logical cores),
 NVIDIA GeForce RTX 4060 Ti GPU, 
 and 32 GB RAM. Under this configuration.
 # Requirements
+matplotlib==3.4.2
+networkx==2.5.1
+numpy==1.20.0
+pillow
+pandas
+pygame
+scikit-learn==0.24.2
+scipy==1.6.3
+seaborn
+lxml
+shapely==1.8.4
+omegaconf
+sumo
