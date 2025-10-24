@@ -25,4 +25,4 @@
 	sumo
 ## Training
 	Different algorithms need to be trained 3 times using three different random seeds in three traffic modes. 
-  The best performing method in the hard mode will be used in the evaluation test.
+	The best performing method in the hard mode will be used in the evaluation test.
