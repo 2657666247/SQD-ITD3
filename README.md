@@ -4,8 +4,8 @@ The trained neural network model is integrated into the intelligent transportati
 # Use
 The experiments were conducted on the SUMO simulation platform with the following software/hardware stack: 
 Python 3.7,
-Ubuntu 18.04, 
-Intel® i7-14700F (28 logical cores), 
+Ubuntu 18.04,
+Intel® i7-14700F (28 logical cores),
 NVIDIA GeForce RTX 4060 Ti GPU, 
 and 32 GB RAM. Under this configuration.
 # Requirements
